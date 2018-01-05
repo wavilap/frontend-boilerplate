@@ -1,0 +1,27 @@
+{
+  "name": "Frontend-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "StartDev",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "browserify-shim": "^3.8.14",
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-uglify": "^3.0.0",
+    "gulp-webserver": "^0.9.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "jquery": "2.2.4"
+  }
+}
